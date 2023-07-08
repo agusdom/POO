@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\Quark Academy\C#\POO\Tema 6- Herencia\miPrimeraClase\miPrimeraClase\bin\Debug\miPrimeraClase.exe.config
+C:\Users\Usuario\Desktop\Quark Academy\C#\POO\Tema 6- Herencia\miPrimeraClase\miPrimeraClase\bin\Debug\miPrimeraClase.exe
+C:\Users\Usuario\Desktop\Quark Academy\C#\POO\Tema 6- Herencia\miPrimeraClase\miPrimeraClase\bin\Debug\miPrimeraClase.pdb
+C:\Users\Usuario\Desktop\Quark Academy\C#\POO\Tema 6- Herencia\miPrimeraClase\miPrimeraClase\obj\Debug\miPrimeraClase.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Quark Academy\C#\POO\Tema 6- Herencia\miPrimeraClase\miPrimeraClase\obj\Debug\miPrimeraClase.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Desktop\Quark Academy\C#\POO\Tema 6- Herencia\miPrimeraClase\miPrimeraClase\obj\Debug\miPrimeraClase.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Quark Academy\C#\POO\Tema 6- Herencia\miPrimeraClase\miPrimeraClase\obj\Debug\miPrimeraClase.exe
+C:\Users\Usuario\Desktop\Quark Academy\C#\POO\Tema 6- Herencia\miPrimeraClase\miPrimeraClase\obj\Debug\miPrimeraClase.pdb
+C:\Users\Usuario\Desktop\Quark Academy\C#\POO\Tema 6- Herencia,8- Herencia métodos virtuales\miPrimeraClase\miPrimeraClase\bin\Debug\miPrimeraClase.exe.config
+C:\Users\Usuario\Desktop\Quark Academy\C#\POO\Tema 6- Herencia,8- Herencia métodos virtuales\miPrimeraClase\miPrimeraClase\bin\Debug\miPrimeraClase.exe
+C:\Users\Usuario\Desktop\Quark Academy\C#\POO\Tema 6- Herencia,8- Herencia métodos virtuales\miPrimeraClase\miPrimeraClase\bin\Debug\miPrimeraClase.pdb
+C:\Users\Usuario\Desktop\Quark Academy\C#\POO\Tema 6- Herencia,8- Herencia métodos virtuales\miPrimeraClase\miPrimeraClase\obj\Debug\miPrimeraClase.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Quark Academy\C#\POO\Tema 6- Herencia,8- Herencia métodos virtuales\miPrimeraClase\miPrimeraClase\obj\Debug\miPrimeraClase.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Desktop\Quark Academy\C#\POO\Tema 6- Herencia,8- Herencia métodos virtuales\miPrimeraClase\miPrimeraClase\obj\Debug\miPrimeraClase.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Quark Academy\C#\POO\Tema 6- Herencia,8- Herencia métodos virtuales\miPrimeraClase\miPrimeraClase\obj\Debug\miPrimeraClase.exe
+C:\Users\Usuario\Desktop\Quark Academy\C#\POO\Tema 6- Herencia,8- Herencia métodos virtuales\miPrimeraClase\miPrimeraClase\obj\Debug\miPrimeraClase.pdb
