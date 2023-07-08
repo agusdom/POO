@@ -1,0 +1,8 @@
+C:\Users\Usuario\Desktop\Quark Academy\C#\POO\Tema 21- Relaciones entre clases\Dependencia\Dependencia\bin\Debug\Dependencia.exe.config
+C:\Users\Usuario\Desktop\Quark Academy\C#\POO\Tema 21- Relaciones entre clases\Dependencia\Dependencia\bin\Debug\Dependencia.exe
+C:\Users\Usuario\Desktop\Quark Academy\C#\POO\Tema 21- Relaciones entre clases\Dependencia\Dependencia\bin\Debug\Dependencia.pdb
+C:\Users\Usuario\Desktop\Quark Academy\C#\POO\Tema 21- Relaciones entre clases\Dependencia\Dependencia\obj\Debug\Dependencia.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Quark Academy\C#\POO\Tema 21- Relaciones entre clases\Dependencia\Dependencia\obj\Debug\Dependencia.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Desktop\Quark Academy\C#\POO\Tema 21- Relaciones entre clases\Dependencia\Dependencia\obj\Debug\Dependencia.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Quark Academy\C#\POO\Tema 21- Relaciones entre clases\Dependencia\Dependencia\obj\Debug\Dependencia.exe
+C:\Users\Usuario\Desktop\Quark Academy\C#\POO\Tema 21- Relaciones entre clases\Dependencia\Dependencia\obj\Debug\Dependencia.pdb

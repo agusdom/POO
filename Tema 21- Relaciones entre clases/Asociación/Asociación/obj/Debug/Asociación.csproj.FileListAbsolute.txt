@@ -1,0 +1,8 @@
+C:\Users\Usuario\Desktop\Quark Academy\C#\POO\Tema 21- Relaciones entre clases\Asociación\Asociación\bin\Debug\Asociación.exe.config
+C:\Users\Usuario\Desktop\Quark Academy\C#\POO\Tema 21- Relaciones entre clases\Asociación\Asociación\bin\Debug\Asociación.exe
+C:\Users\Usuario\Desktop\Quark Academy\C#\POO\Tema 21- Relaciones entre clases\Asociación\Asociación\bin\Debug\Asociación.pdb
+C:\Users\Usuario\Desktop\Quark Academy\C#\POO\Tema 21- Relaciones entre clases\Asociación\Asociación\obj\Debug\Asociación.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Quark Academy\C#\POO\Tema 21- Relaciones entre clases\Asociación\Asociación\obj\Debug\Asociación.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Desktop\Quark Academy\C#\POO\Tema 21- Relaciones entre clases\Asociación\Asociación\obj\Debug\Asociación.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Quark Academy\C#\POO\Tema 21- Relaciones entre clases\Asociación\Asociación\obj\Debug\Asociación.exe
+C:\Users\Usuario\Desktop\Quark Academy\C#\POO\Tema 21- Relaciones entre clases\Asociación\Asociación\obj\Debug\Asociación.pdb
