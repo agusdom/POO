@@ -1,0 +1,8 @@
+C:\Users\Usuario\Desktop\Quark Academy\C#\POO\Tema 17- ArrayList y List de objetos\ArrayList_y_List\ArrayList_y_List\bin\Debug\ArrayList_y_List.exe.config
+C:\Users\Usuario\Desktop\Quark Academy\C#\POO\Tema 17- ArrayList y List de objetos\ArrayList_y_List\ArrayList_y_List\bin\Debug\ArrayList_y_List.exe
+C:\Users\Usuario\Desktop\Quark Academy\C#\POO\Tema 17- ArrayList y List de objetos\ArrayList_y_List\ArrayList_y_List\bin\Debug\ArrayList_y_List.pdb
+C:\Users\Usuario\Desktop\Quark Academy\C#\POO\Tema 17- ArrayList y List de objetos\ArrayList_y_List\ArrayList_y_List\obj\Debug\ArrayList_y_List.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Quark Academy\C#\POO\Tema 17- ArrayList y List de objetos\ArrayList_y_List\ArrayList_y_List\obj\Debug\ArrayList_y_List.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Desktop\Quark Academy\C#\POO\Tema 17- ArrayList y List de objetos\ArrayList_y_List\ArrayList_y_List\obj\Debug\ArrayList_y_List.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Quark Academy\C#\POO\Tema 17- ArrayList y List de objetos\ArrayList_y_List\ArrayList_y_List\obj\Debug\ArrayList_y_List.exe
+C:\Users\Usuario\Desktop\Quark Academy\C#\POO\Tema 17- ArrayList y List de objetos\ArrayList_y_List\ArrayList_y_List\obj\Debug\ArrayList_y_List.pdb

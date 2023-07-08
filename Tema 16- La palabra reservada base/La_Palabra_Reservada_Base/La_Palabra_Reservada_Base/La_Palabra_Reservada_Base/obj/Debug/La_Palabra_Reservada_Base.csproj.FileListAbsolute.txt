@@ -1,0 +1,11 @@
+C:\Users\Usuario\Desktop\Quark Academy\C#\POO\Tema 16- La palabra reservada base\La_Palabra_Reservada_Base\La_Palabra_Reservada_Base\La_Palabra_Reservada_Base\bin\Debug\La_Palabra_Reservada_Base.exe.config
+C:\Users\Usuario\Desktop\Quark Academy\C#\POO\Tema 16- La palabra reservada base\La_Palabra_Reservada_Base\La_Palabra_Reservada_Base\La_Palabra_Reservada_Base\bin\Debug\La_Palabra_Reservada_Base.exe
+C:\Users\Usuario\Desktop\Quark Academy\C#\POO\Tema 16- La palabra reservada base\La_Palabra_Reservada_Base\La_Palabra_Reservada_Base\La_Palabra_Reservada_Base\bin\Debug\La_Palabra_Reservada_Base.pdb
+C:\Users\Usuario\Desktop\Quark Academy\C#\POO\Tema 16- La palabra reservada base\La_Palabra_Reservada_Base\La_Palabra_Reservada_Base\La_Palabra_Reservada_Base\obj\Debug\La_Palabra_Reservada_Base.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Quark Academy\C#\POO\Tema 16- La palabra reservada base\La_Palabra_Reservada_Base\La_Palabra_Reservada_Base\La_Palabra_Reservada_Base\obj\Debug\La_Palabra_Reservada_Base.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Desktop\Quark Academy\C#\POO\Tema 16- La palabra reservada base\La_Palabra_Reservada_Base\La_Palabra_Reservada_Base\La_Palabra_Reservada_Base\obj\Debug\La_Palabra_Reservada_Base.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Quark Academy\C#\POO\Tema 16- La palabra reservada base\La_Palabra_Reservada_Base\La_Palabra_Reservada_Base\La_Palabra_Reservada_Base\obj\Debug\La_Palabra_Reservada_Base.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Quark Academy\C#\POO\Tema 16- La palabra reservada base\La_Palabra_Reservada_Base\La_Palabra_Reservada_Base\La_Palabra_Reservada_Base\obj\Debug\La_Palabra_Reservada_Base.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Quark Academy\C#\POO\Tema 16- La palabra reservada base\La_Palabra_Reservada_Base\La_Palabra_Reservada_Base\La_Palabra_Reservada_Base\obj\Debug\La_Palabra_Reservada_Base.exe
+C:\Users\Usuario\Desktop\Quark Academy\C#\POO\Tema 16- La palabra reservada base\La_Palabra_Reservada_Base\La_Palabra_Reservada_Base\La_Palabra_Reservada_Base\obj\Debug\La_Palabra_Reservada_Base.pdb
+C:\Users\Usuario\Desktop\Quark Academy\C#\POO\Tema 16- La palabra reservada base\La_Palabra_Reservada_Base\La_Palabra_Reservada_Base\La_Palabra_Reservada_Base\obj\Debug\La_Palabra_Reservada_Base.Form1.resources
