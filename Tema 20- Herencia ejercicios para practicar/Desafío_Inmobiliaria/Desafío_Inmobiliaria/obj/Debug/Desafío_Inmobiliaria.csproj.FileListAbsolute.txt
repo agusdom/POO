@@ -1,0 +1,8 @@
+C:\Users\Usuario\Desktop\Quark Academy\C#\POO\Tema 20- Herencia ejercicios para practicar\Desafío_Inmobiliaria\Desafío_Inmobiliaria\bin\Debug\Desafío_Inmobiliaria.exe.config
+C:\Users\Usuario\Desktop\Quark Academy\C#\POO\Tema 20- Herencia ejercicios para practicar\Desafío_Inmobiliaria\Desafío_Inmobiliaria\bin\Debug\Desafío_Inmobiliaria.exe
+C:\Users\Usuario\Desktop\Quark Academy\C#\POO\Tema 20- Herencia ejercicios para practicar\Desafío_Inmobiliaria\Desafío_Inmobiliaria\bin\Debug\Desafío_Inmobiliaria.pdb
+C:\Users\Usuario\Desktop\Quark Academy\C#\POO\Tema 20- Herencia ejercicios para practicar\Desafío_Inmobiliaria\Desafío_Inmobiliaria\obj\Debug\Desafío_Inmobiliaria.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Quark Academy\C#\POO\Tema 20- Herencia ejercicios para practicar\Desafío_Inmobiliaria\Desafío_Inmobiliaria\obj\Debug\Desafío_Inmobiliaria.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Desktop\Quark Academy\C#\POO\Tema 20- Herencia ejercicios para practicar\Desafío_Inmobiliaria\Desafío_Inmobiliaria\obj\Debug\Desafío_Inmobiliaria.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Quark Academy\C#\POO\Tema 20- Herencia ejercicios para practicar\Desafío_Inmobiliaria\Desafío_Inmobiliaria\obj\Debug\Desafío_Inmobiliaria.exe
+C:\Users\Usuario\Desktop\Quark Academy\C#\POO\Tema 20- Herencia ejercicios para practicar\Desafío_Inmobiliaria\Desafío_Inmobiliaria\obj\Debug\Desafío_Inmobiliaria.pdb
