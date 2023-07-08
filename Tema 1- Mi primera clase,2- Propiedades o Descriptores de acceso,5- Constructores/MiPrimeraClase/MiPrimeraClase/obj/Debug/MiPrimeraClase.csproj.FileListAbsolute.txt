@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\Quark Academy\C#\POO\Tema 1- Mi primera clase\MiPrimeraClase\MiPrimeraClase\bin\Debug\MiPrimeraClase.exe.config
+C:\Users\Usuario\Desktop\Quark Academy\C#\POO\Tema 1- Mi primera clase\MiPrimeraClase\MiPrimeraClase\bin\Debug\MiPrimeraClase.exe
+C:\Users\Usuario\Desktop\Quark Academy\C#\POO\Tema 1- Mi primera clase\MiPrimeraClase\MiPrimeraClase\bin\Debug\MiPrimeraClase.pdb
+C:\Users\Usuario\Desktop\Quark Academy\C#\POO\Tema 1- Mi primera clase\MiPrimeraClase\MiPrimeraClase\obj\Debug\MiPrimeraClase.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Quark Academy\C#\POO\Tema 1- Mi primera clase\MiPrimeraClase\MiPrimeraClase\obj\Debug\MiPrimeraClase.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Desktop\Quark Academy\C#\POO\Tema 1- Mi primera clase\MiPrimeraClase\MiPrimeraClase\obj\Debug\MiPrimeraClase.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Quark Academy\C#\POO\Tema 1- Mi primera clase\MiPrimeraClase\MiPrimeraClase\obj\Debug\MiPrimeraClase.exe
+C:\Users\Usuario\Desktop\Quark Academy\C#\POO\Tema 1- Mi primera clase\MiPrimeraClase\MiPrimeraClase\obj\Debug\MiPrimeraClase.pdb
+C:\Users\Usuario\Desktop\Quark Academy\C#\POO\Tema 1- Mi primera clase,2- Propiedades o Descriptores de acceso\MiPrimeraClase\MiPrimeraClase\obj\Debug\MiPrimeraClase.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Quark Academy\C#\POO\Tema 1- Mi primera clase,2- Propiedades o Descriptores de acceso\MiPrimeraClase\MiPrimeraClase\obj\Debug\MiPrimeraClase.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Desktop\Quark Academy\C#\POO\Tema 1- Mi primera clase,2- Propiedades o Descriptores de acceso\MiPrimeraClase\MiPrimeraClase\obj\Debug\MiPrimeraClase.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Quark Academy\C#\POO\Tema 1- Mi primera clase,2- Propiedades o Descriptores de acceso\MiPrimeraClase\MiPrimeraClase\obj\Debug\MiPrimeraClase.exe
+C:\Users\Usuario\Desktop\Quark Academy\C#\POO\Tema 1- Mi primera clase,2- Propiedades o Descriptores de acceso\MiPrimeraClase\MiPrimeraClase\obj\Debug\MiPrimeraClase.pdb
+C:\Users\Usuario\Desktop\Quark Academy\C#\POO\Tema 1- Mi primera clase,2- Propiedades o Descriptores de acceso\MiPrimeraClase\MiPrimeraClase\bin\Debug\MiPrimeraClase.exe.config
+C:\Users\Usuario\Desktop\Quark Academy\C#\POO\Tema 1- Mi primera clase,2- Propiedades o Descriptores de acceso\MiPrimeraClase\MiPrimeraClase\bin\Debug\MiPrimeraClase.exe
+C:\Users\Usuario\Desktop\Quark Academy\C#\POO\Tema 1- Mi primera clase,2- Propiedades o Descriptores de acceso\MiPrimeraClase\MiPrimeraClase\bin\Debug\MiPrimeraClase.pdb

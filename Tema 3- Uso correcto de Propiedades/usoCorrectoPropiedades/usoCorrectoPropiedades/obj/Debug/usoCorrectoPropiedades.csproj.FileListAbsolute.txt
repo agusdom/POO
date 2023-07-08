@@ -1,0 +1,11 @@
+C:\Users\Usuario\Desktop\Quark Academy\C#\POO\Tema 3- Uso correcto de Propiedades\usoCorrectoPropiedades\usoCorrectoPropiedades\obj\Debug\usoCorrectoPropiedades.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Quark Academy\C#\POO\Tema 3- Uso correcto de Propiedades\usoCorrectoPropiedades\usoCorrectoPropiedades\obj\Debug\usoCorrectoPropiedades.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Desktop\Quark Academy\C#\POO\Tema 3- Uso correcto de Propiedades\usoCorrectoPropiedades\usoCorrectoPropiedades\obj\Debug\usoCorrectoPropiedades.Form1.resources
+C:\Users\Usuario\Desktop\Quark Academy\C#\POO\Tema 3- Uso correcto de Propiedades\usoCorrectoPropiedades\usoCorrectoPropiedades\obj\Debug\usoCorrectoPropiedades.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Quark Academy\C#\POO\Tema 3- Uso correcto de Propiedades\usoCorrectoPropiedades\usoCorrectoPropiedades\obj\Debug\usoCorrectoPropiedades.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Quark Academy\C#\POO\Tema 3- Uso correcto de Propiedades\usoCorrectoPropiedades\usoCorrectoPropiedades\obj\Debug\usoCorrectoPropiedades.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Quark Academy\C#\POO\Tema 3- Uso correcto de Propiedades\usoCorrectoPropiedades\usoCorrectoPropiedades\bin\Debug\usoCorrectoPropiedades.exe.config
+C:\Users\Usuario\Desktop\Quark Academy\C#\POO\Tema 3- Uso correcto de Propiedades\usoCorrectoPropiedades\usoCorrectoPropiedades\bin\Debug\usoCorrectoPropiedades.exe
+C:\Users\Usuario\Desktop\Quark Academy\C#\POO\Tema 3- Uso correcto de Propiedades\usoCorrectoPropiedades\usoCorrectoPropiedades\bin\Debug\usoCorrectoPropiedades.pdb
+C:\Users\Usuario\Desktop\Quark Academy\C#\POO\Tema 3- Uso correcto de Propiedades\usoCorrectoPropiedades\usoCorrectoPropiedades\obj\Debug\usoCorrectoPropiedades.exe
+C:\Users\Usuario\Desktop\Quark Academy\C#\POO\Tema 3- Uso correcto de Propiedades\usoCorrectoPropiedades\usoCorrectoPropiedades\obj\Debug\usoCorrectoPropiedades.pdb
